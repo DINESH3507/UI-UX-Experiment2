@@ -6,7 +6,7 @@ To Design a Basic Mobile and Web Layout for an Existing Case Study.
 
 ## Algorithm:
 
-1.Use figma or canva
+1.Use figma or canva.
 
 2.Apply Gestalt principles to enhance mobile and web layout design.
 
